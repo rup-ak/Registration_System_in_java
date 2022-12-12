@@ -299,7 +299,7 @@ public class Registration extends JFrame {
 		lblIconLogo = new JLabel("");
 		lblIconLogo.setBounds(new Rectangle(0, 0, 2, 2));
 		lblIconLogo.setHorizontalAlignment(SwingConstants.CENTER);
-		lblIconLogo.setIcon(new ImageIcon("D:\\AKMU-education\\Java\\Login\\icon\\studentlogin.png"));
+		lblIconLogo.setIcon(new ImageIcon("D:\\Java\\Login\\icon\\studentlogin.png"));//Here will be the location of the image
 		lblIconLogo.setBounds(208, 0, 261, 147);
 		contentPane.add(lblIconLogo);
 		
